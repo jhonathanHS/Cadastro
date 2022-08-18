@@ -131,11 +131,27 @@
         android:padding="5dp"/>
 
     <Spinner
-        android:id="@+id/estadoCivilSp"
+        android:id="@+id/unidadeFederalSp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:entries="@array/uf"
+        android:entries="@array/unidadeFederal"
         android:minHeight="48dp"
+        android:padding="5dp"
+        android:layout_margin="5dp"/>
+
+    <Button
+        android:id="@+id/salvarBt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/salvar"
+        android:padding="5dp"
+        android:layout_margin="5dp"/>
+
+    <Button
+        android:id="@+id/limparBt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/limpar"
         android:padding="5dp"
         android:layout_margin="5dp"/>
 

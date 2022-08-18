@@ -12,7 +12,9 @@
     <string name="sexotitle">Sexo</string>
     <string name="cidadetitle">Cidade</string>
     <string name="uftitle">UF</string>
-    <string-array name="uf">
+    <string name="limpar">limpar</string>
+    <string name="salvar">salvar</string>
+    <string-array name="unidadeFederal">
     <item>São Paulo</item>
     <item>Acre</item>
     <item>Maranhão</item>
