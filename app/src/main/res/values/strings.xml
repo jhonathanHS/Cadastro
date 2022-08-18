@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Cadastro</string>
+    <string name="nome">nome</string>
+    <string name="telefone">telefone</string>
+    <string name="email">email</string>
+    <string name="feminino">feminino</string>
+    <string name="masculino">masculino</string>
+    <string name="cidade">cidade</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="telefonetitle">Telefone</string>
+    <string name="e_mailtitle">E-mail</string>
+    <string name="sexotitle">Sexo</string>
+    <string name="cidadetitle">Cidade</string>
+    <string name="uftitle">UF</string>
+    <string-array name="uf">
+    <item>São Paulo</item>
+    <item>Acre</item>
+    <item>Maranhão</item>
+    <item>Paraná</item>
+    <item>Rio de Janeiro</item>
+    <item>Santa Catarina</item>
+</string-array>
 </resources>
